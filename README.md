@@ -1,7 +1,5 @@
 # mathematics
 
-# Help:
-
 # Создать новый репозиторий:
 # echo "# mathematics" >> README.md
 # git init
@@ -13,8 +11,8 @@
 # git commit -m "Алгебра для самообразования"
 # git push -u origin master
 
-# Автоматически добавляет в индекс измененные и удаленные файлы и коммитит их:
+# Автоматически добавить в индекс измененные и удаленные файлы и сделать commit:
 # git commit -a -m "§ 7"
 
-# Делает push только ветки master:
+# Сделать push только ветки master:
 # git push origin master
